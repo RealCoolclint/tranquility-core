@@ -1,78 +1,153 @@
-{
-  "version": 1,
-  "updatedAt": "2026-04-02T18:02:01.000Z",
-  "profiles": [
-    {
-      "id": "p_1773999409329",
-      "firstName": "Martin",
-      "initiales": "MP",
-      "role": "admin",
-      "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_13.jpeg",
-      "color": "#2563eb",
-      "appPermissions": {
-        "reviewer": true,
-        "manifest": true
-      }
+[
+  {
+    "id": "p_1773999409329",
+    "firstName": "Martin",
+    "role": "admin",
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true,
+      "ark": true
     },
-    {
-      "id": "1762027777584bhmx0uydt",
-      "firstName": "Thomas",
-      "initiales": "TC",
-      "role": "user",
-      "avatar": null,
-      "color": "#7f54c0",
-      "appPermissions": {
-        "reviewer": true,
-        "manifest": true
-      }
+    "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_13.jpeg",
+    "initiales": "MP",
+    "color": "#2563eb"
+  },
+  {
+    "id": "1762027777584bhmx0uydt",
+    "firstName": "Thomas",
+    "role": "user",
+    "avatar": null,
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true,
+      "ark": true
     },
-    {
-      "id": "1762027832543tkvmqrvir",
-      "firstName": "Charlyne",
-      "initiales": "CF",
-      "role": "user",
-      "avatar": null,
-      "color": "#ebc924",
-      "appPermissions": {
-        "reviewer": true,
-        "manifest": true
-      }
+    "initiales": "TC",
+    "color": "#7f54c0"
+  },
+  {
+    "id": "1762027832543tkvmqrvir",
+    "firstName": "Charlyne",
+    "role": "user",
+    "avatar": null,
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true,
+      "ark": true
     },
-    {
-      "id": "1762027871566jszcebbcm",
-      "firstName": "Lisa",
-      "initiales": "LM",
-      "role": "user",
-      "avatar": null,
-      "color": "#2563eb",
-      "appPermissions": {
-        "reviewer": true,
-        "manifest": true
-      }
+    "initiales": "CF",
+    "color": "#ebc924"
+  },
+  {
+    "id": "1762027871566jszcebbcm",
+    "firstName": "Lisa",
+    "role": "user",
+    "avatar": null,
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true,
+      "ark": true
     },
-    {
-      "id": "1762027921739tt06r3j9d",
-      "firstName": "Maëlle",
-      "initiales": "MDN",
-      "role": "user",
-      "avatar": null,
-      "color": "#dd24eb",
-      "appPermissions": {
-        "reviewer": true,
-        "manifest": true
-      }
+    "initiales": "LM",
+    "color": "#2563eb"
+  },
+  {
+    "id": "1762027921739tt06r3j9d",
+    "firstName": "Maëlle",
+    "role": "user",
+    "avatar": null,
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true,
+      "ark": true
     },
-    {
-      "id": "17620274114058o6qg2c5n",
-      "firstName": "Antoine",
-      "initiales": null,
-      "role": "user",
-      "avatar": null,
-      "color": null,
-      "appPermissions": {
-        "reviewer": true,
-        "manifest": true
-      }
+    "initiales": "MDN",
+    "color": "#dd24eb"
+  },
+  {
+    "id": "17620274114058o6qg2c5n",
+    "firstName": "Antoine",
+    "role": "user",
+    "avatar": null,
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true
     }
-  ]
-}
+  },
+  {
+    "id": "p_1774200650086",
+    "firstName": "Sam",
+    "avatar": "assets/avatars/avatar_08.jpeg",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true
+    }
+  },
+  {
+    "id": "p_1774336240839",
+    "firstName": "Nina",
+    "avatar": "assets/avatars/avatar_24.png",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true
+    }
+  },
+  {
+    "id": "p_1774800318009",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true
+    }
+  },
+  {
+    "id": "p_1775511090454",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true
+    }
+  },
+  {
+    "id": "p_1775511117845",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true
+    }
+  },
+  {
+    "id": "p_1775511149962",
+    "role": "user",
+    "appPermissions": {
+      "backupflow": true,
+      "transporter": true,
+      "reviewer": true,
+      "manifest": true
+    }
+  }
+]
