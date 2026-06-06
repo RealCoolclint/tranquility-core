@@ -8,7 +8,8 @@
       "transporter": true,
       "reviewer": true,
       "manifest": true,
-      "ark": true
+      "ark": true,
+      "covenant": true
     },
     "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_13.jpeg",
     "initiales": "MP",
@@ -24,7 +25,8 @@
       "transporter": true,
       "reviewer": true,
       "manifest": true,
-      "ark": true
+      "ark": true,
+      "covenant": true
     },
     "initiales": "TC",
     "color": "#7f54c0"
@@ -39,7 +41,8 @@
       "transporter": true,
       "reviewer": true,
       "manifest": true,
-      "ark": true
+      "ark": true,
+      "covenant": true
     },
     "initiales": "CF",
     "color": "#ebc924"
@@ -54,7 +57,8 @@
       "transporter": true,
       "reviewer": true,
       "manifest": true,
-      "ark": true
+      "ark": true,
+      "covenant": true
     },
     "initiales": "LM",
     "color": "#2563eb"
@@ -69,7 +73,8 @@
       "transporter": true,
       "reviewer": true,
       "manifest": true,
-      "ark": true
+      "ark": true,
+      "covenant": true
     },
     "initiales": "MDN",
     "color": "#dd24eb"
@@ -83,7 +88,8 @@
       "backupflow": true,
       "transporter": true,
       "reviewer": true,
-      "manifest": true
+      "manifest": true,
+      "covenant": true
     }
   },
   {
@@ -98,7 +104,8 @@
       "transporter": false,
       "ark": false,
       "reviewer": true,
-      "manifest": false
+      "manifest": false,
+      "covenant": true
     }
   },
   {
@@ -113,7 +120,8 @@
       "transporter": false,
       "ark": false,
       "reviewer": true,
-      "manifest": false
+      "manifest": false,
+      "covenant": true
     }
   },
   {
@@ -128,7 +136,8 @@
       "transporter": false,
       "ark": false,
       "reviewer": true,
-      "manifest": false
+      "manifest": false,
+      "covenant": true
     }
   }
 ]
