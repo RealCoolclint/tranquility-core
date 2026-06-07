@@ -13,7 +13,8 @@
     },
     "avatar": "https://raw.githubusercontent.com/RealCoolclint/tranquility-avatars/main/avatar_13.jpeg",
     "initiales": "MP",
-    "color": "#2563eb"
+    "color": "#2563eb",
+    "emailPrefix": "mpavloff"
   },
   {
     "id": "1762027777584bhmx0uydt",
@@ -29,7 +30,8 @@
       "covenant": true
     },
     "initiales": "TC",
-    "color": "#7f54c0"
+    "color": "#7f54c0",
+    "emailPrefix": "tclicteur"
   },
   {
     "id": "1762027832543tkvmqrvir",
@@ -45,7 +47,8 @@
       "covenant": true
     },
     "initiales": "CF",
-    "color": "#ebc924"
+    "color": "#ebc924",
+    "emailPrefix": "cfeneant"
   },
   {
     "id": "1762027871566jszcebbcm",
@@ -61,7 +64,8 @@
       "covenant": true
     },
     "initiales": "LM",
-    "color": "#2563eb"
+    "color": "#2563eb",
+    "emailPrefix": "lmazal"
   },
   {
     "id": "1762027921739tt06r3j9d",
@@ -77,7 +81,8 @@
       "covenant": true
     },
     "initiales": "MDN",
-    "color": "#dd24eb"
+    "color": "#dd24eb",
+    "emailPrefix": "mdasneves"
   },
   {
     "id": "17620274114058o6qg2c5n",
@@ -90,7 +95,8 @@
       "reviewer": true,
       "manifest": true,
       "covenant": true
-    }
+    },
+    "emailPrefix": "apaley"
   },
   {
     "id": "p_1775512483113",
@@ -106,7 +112,8 @@
       "reviewer": true,
       "manifest": false,
       "covenant": true
-    }
+    },
+    "emailPrefix": "hdecaillot"
   },
   {
     "id": "p_1775512483114",
@@ -122,7 +129,8 @@
       "reviewer": true,
       "manifest": false,
       "covenant": true
-    }
+    },
+    "emailPrefix": "jpetit"
   },
   {
     "id": "p_1775512483115",
@@ -138,6 +146,7 @@
       "reviewer": true,
       "manifest": false,
       "covenant": true
-    }
+    },
+    "emailPrefix": "achampomier"
   }
 ]
