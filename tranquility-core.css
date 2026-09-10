@@ -17,6 +17,7 @@
   --bg-secondary:  #0f172a;
   --bg-tertiary:   #1e293b;
   --bg-elevated:   #283548;
+  --bg-highest:    #323f52;
   --bg-card:       #0f172a;
 
   /* Texte */
@@ -610,6 +611,7 @@ input[type="checkbox"] {
 .bg-secondary   { background: var(--bg-secondary); }
 .bg-tertiary    { background: var(--bg-tertiary); }
 .bg-elevated    { background: var(--bg-elevated); }
+.bg-highest     { background: var(--bg-highest); }
 
 .border-subtle  { border: 1px solid var(--border); }
 .radius         { border-radius: var(--radius); }
