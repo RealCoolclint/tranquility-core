@@ -13,6 +13,7 @@
 /* ── Tokens ──────────────────────────────────────────────────── */
 :root {
   /* Fonds */
+  --bg-void:       #000000;
   --bg-primary:    #0a0f1e;
   --bg-secondary:  #0f172a;
   --bg-tertiary:   #1e293b;
@@ -607,6 +608,7 @@ input[type="checkbox"] {
 .text-upper     { text-transform: uppercase; letter-spacing: 1px; font-family: 'Lato', sans-serif; font-weight: 700; }
 .text-mono      { font-family: 'Space Mono', monospace; }
 
+.bg-void        { background: var(--bg-void); }
 .bg-primary     { background: var(--bg-primary); }
 .bg-secondary   { background: var(--bg-secondary); }
 .bg-tertiary    { background: var(--bg-tertiary); }
